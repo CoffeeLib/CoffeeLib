@@ -9,4 +9,4 @@ It has been a passion of mine for around 6-7 years to make games. I've always be
 * Many programming languages 🖥
 * Game Modding 🛠
 
-[My Website](https://coffeelib.github.io/home)
+[My Website](https://coffeelib.github.io)
